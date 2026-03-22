@@ -1,0 +1,5 @@
+{
+  "name": "Word QR Code Generator",
+  "description": "Wandelt markierten Text in Word in einen QR-Code um und fügt ihn als Bild ein.",
+  "requestFramePermissions": []
+}
